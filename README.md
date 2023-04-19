@@ -12,7 +12,7 @@ For a full video tutorial on password validation or strength check using HTML, C
 
 ## Video Tutorial of Password Validation Check in JavaScript
 
-
+[![Password Validation Check in HTML CSS & JavaScript](https://res.cloudinary.com/marcomontalbano/image/upload/v1681887715/video_to_markdown/images/youtube--UHAuPmPtwuQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/UHAuPmPtwuQ "Password Validation Check in HTML CSS & JavaScript")
 
 If you prefer visual learning, then the above video tutorial is a great resource for you. I highly recommend watching it because I go through each line of code in detail and provide explanatory comments to make the code easy to understand and follow.
 
