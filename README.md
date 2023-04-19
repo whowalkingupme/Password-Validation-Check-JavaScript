@@ -1,5 +1,6 @@
 # Password Validation Check in HTML CSS & JavaScript
 
+![Password-Validation-Check-in-HTML-CSS-JavaScript-Password-Strength-Check-in-JavaScript](https://user-images.githubusercontent.com/46256884/232989878-4f950338-ab48-4eb8-a417-e5bb7f2b1e32.png)
 
 In today’s digital world, it is important to create strong and secure passwords that are difficult to guess or hack. This is where password validation or strength checks come into play. By implementing this password validation feature, website owners can ensure that users create strong passwords that are less likely to be compromised.
 
@@ -10,6 +11,7 @@ In this post, you’ll not only learn how to perform a password validation check
 For a full video tutorial on password validation or strength check using HTML, CSS, and JavaScript, you can watch the given YouTube video.
 
 ## Video Tutorial of Password Validation Check in JavaScript
+
 
 
 If you prefer visual learning, then the above video tutorial is a great resource for you. I highly recommend watching it because I go through each line of code in detail and provide explanatory comments to make the code easy to understand and follow.
